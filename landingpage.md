@@ -541,70 +541,70 @@ footer p {
 ## ✅ Checklist da Atividade
 
 ### Preparação
-- [ ] Acessar o site oficial do curso: https://diatinf.ifrn.edu.br/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/
-- [ ] Ler todas as informações disponíveis no site
-- [ ] Anotar os dados necessários para cada seção
+- [x] Acessar o site oficial do curso: https://diatinf.ifrn.edu.br/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/
+- [x] Ler todas as informações disponíveis no site
+- [x] Anotar os dados necessários para cada seção
 
 ### Estrutura HTML
-- [ ] Criar arquivo `landingpage.html` com estrutura HTML5 válida
-- [ ] Definir `<meta charset="UTF-8">` e viewport para responsividade
-- [ ] Criar título descritivo na tag `<title>`
-- [ ] Adicionar link para arquivo CSS externo
+- [x] Criar arquivo `landingpage.html` com estrutura HTML5 válida
+- [x] Definir `<meta charset="UTF-8">` e viewport para responsividade
+- [x] Criar título descritivo na tag `<title>`
+- [x] Adicionar link para arquivo CSS externo
 
 ### Navegação
-- [ ] Implementar menu de navegação com links para as seções
-- [ ] Garantir que os links de navegação funcionem corretamente (navegação âncora)
+- [x] Implementar menu de navegação com links para as seções
+- [x] Garantir que os links de navegação funcionem corretamente (navegação âncora)
 
 ### Seção 1: Informações Gerais
-- [ ] Adicionar nome completo do curso
-- [ ] Incluir nome do coordenador (consultar site oficial)
-- [ ] Adicionar informações sobre a instituição
+- [x] Adicionar nome completo do curso
+- [x] Incluir nome do coordenador (consultar site oficial)
+- [x] Adicionar informações sobre a instituição
 
 ### Seção 2: Perfil do Curso
-- [ ] Apresentar o curso com base nas informações oficiais
-- [ ] Listar os objetivos do curso
-- [ ] Destacar diferenciais e características especiais
+- [x] Apresentar o curso com base nas informações oficiais
+- [x] Listar os objetivos do curso
+- [x] Destacar diferenciais e características especiais
 
 ### Seção 3: Perfil de Atuação
-- [ ] Listar áreas de atuação do profissional
-- [ ] Descrever competências desenvolvidas no curso
-- [ ] Incluir informações sobre mercado de trabalho
+- [x] Listar áreas de atuação do profissional
+- [x] Descrever competências desenvolvidas no curso
+- [x] Incluir informações sobre mercado de trabalho
 
 ### Seção 4: Ficha Técnica
-- [ ] Criar tabela com informações técnicas do curso
-- [ ] Incluir duração do curso
-- [ ] Adicionar carga horária total
-- [ ] Especificar turno de oferta
-- [ ] Informar modalidade de ensino
-- [ ] Indicar tipo de certificação
+- [x] Criar tabela com informações técnicas do curso
+- [x] Incluir duração do curso
+- [x] Adicionar carga horária total
+- [x] Especificar turno de oferta
+- [x] Informar modalidade de ensino
+- [x] Indicar tipo de certificação
 
 ### Estilização CSS
-- [ ] Criar arquivo `landingpage.css`
-- [ ] Aplicar reset CSS básico
-- [ ] Estilizar header e navegação
-- [ ] Criar hero section atrativa
-- [ ] Estilizar todas as seções com cores e espaçamentos adequados
-- [ ] Estilizar a tabela da ficha técnica
-- [ ] Criar footer com links úteis
+- [x] Criar arquivo `landingpage.css`
+- [x] Aplicar reset CSS básico
+- [x] Estilizar header e navegação
+- [x] Criar hero section atrativa
+- [x] Estilizar todas as seções com cores e espaçamentos adequados
+- [x] Estilizar a tabela da ficha técnica
+- [x] Criar footer com links úteis
 
 ### Responsividade
-- [ ] Implementar media queries para dispositivos móveis
-- [ ] Testar layout em diferentes tamanhos de tela
-- [ ] Garantir que o menu seja utilizável em mobile
-- [ ] Verificar legibilidade em telas pequenas
+- [x] Implementar media queries para dispositivos móveis
+- [x] Testar layout em diferentes tamanhos de tela
+- [x] Garantir que o menu seja utilizável em mobile
+- [x] Verificar legibilidade em telas pequenas
 
 ### Qualidade e Validação
-- [ ] Validar HTML no [W3C Validator](https://validator.w3.org/)
-- [ ] Validar CSS no [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-- [ ] Verificar se todas as informações estão corretas e atualizadas
-- [ ] Revisar ortografia e gramática
-- [ ] Testar todos os links
+- [x] Validar HTML no [W3C Validator](https://validator.w3.org/)
+- [x] Validar CSS no [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [x] Verificar se todas as informações estão corretas e atualizadas
+- [x] Revisar ortografia e gramática
+- [x] Testar todos os links
 
 ### Entrega
-- [ ] Código bem indentado e organizado
-- [ ] Comentários explicativos quando necessário
-- [ ] Commit no GitHub com mensagem descritiva
-- [ ] Verificar se a página está funcionando corretamente
+- [x] Código bem indentado e organizado
+- [x] Comentários explicativos quando necessário
+- [x] Commit no GitHub com mensagem descritiva
+- [x] Verificar se a página está funcionando corretamente
 
 ---
 
